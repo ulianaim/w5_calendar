@@ -4,7 +4,7 @@
 var currentDay = $("#currentDay")
 
 $(function () {
-  currentDay.text(dayjs())
+  currentDay.text((dayjs().format('dddd, MMMM D, YYYY - h:mm A')))
   var justTime = dayjs().hour()
 
     $( ".row" ).each(function( index ) {
