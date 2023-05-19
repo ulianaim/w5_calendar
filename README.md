@@ -20,3 +20,8 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+The following picture shows the web application's appearance:
+![alt text]
+
+The following link would take you to an actual website so you can take a quiz
