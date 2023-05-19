@@ -22,7 +22,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 The following picture shows the web application's appearance:
-![alt text](./assets/Greenshot%202023-05-18%2022.10.54.png)
+![alt text](./assets/Greenshot%202023-05-19%2017.23.02.png)
 
 The following link would take you to an actual website so you can take a quiz
 https://ulianaim.github.io/w5_calendar/
